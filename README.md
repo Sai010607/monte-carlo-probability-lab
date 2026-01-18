@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Monte Carlo Probability Lab
 
 This project is a Monte Carlo simulation framework to empirically verify
@@ -26,3 +26,4 @@ python main.py
 # monte-carlo-probability-lab
 Monte Carlo simulation framework for validating probability distributions
 >>>>>>> abbc3a52dba63c7ddf73f03e04ba8b996b633a76
+
